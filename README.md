@@ -1,2 +1,3 @@
 # stealth-loris
- StealthLoris is a more advanced modern SlowLoris Dos Attack.
+
+StealthLoris is a more advanced modern SlowLoris Dos Attack.

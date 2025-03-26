@@ -1,0 +1,35 @@
+{
+  "name": "stealth-loris",
+  "version": "1.0.0",
+  "description": "StealthLoris is a more advanced modern SlowLoris Dos Attack with detection evasion for modern web servers (Express, Node.js, etc).",
+  "type": "module",
+  "main": "index.mjs",
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {},
+  "author": "RyLee Harrison <ryleeharrison@icloud.com>",
+  "license": "MIT",
+  "keywords": [
+    "Stealth Loris",
+    "Slow Loris",
+    "DoS Attack",
+    "Denial of Service"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryleeharrison/stealth-loris.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryleeharrison/stealth-loris/issues"
+  },
+  "homepage": "https://github.com/ryleeharrison/stealth-loris#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "user-agent-smith": "^1.1.2"
+  }
+}
