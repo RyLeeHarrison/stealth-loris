@@ -3,8 +3,8 @@ StealthLoris is a more advanced modern [SlowLoris](https://www.cloudflare.com/le
 
 ### Usage
 ```bash
-git  clone  https://github.com/ryleeharrison/stealth-loris.git
-cd  stealth-loris
-npm  install
-node  --experimental-modules  --experimental-import-meta-resolve Example/Simple.mjs
+git clone  https://github.com/ryleeharrison/stealth-loris.git
+cd stealth-loris
+npm install
+node --experimental-modules --experimental-import-meta-resolve Example/Simple.mjs
 ```
