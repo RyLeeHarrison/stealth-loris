@@ -1,5 +1,5 @@
 # stealth-loris
-StealthLoris is a more advanced modern SlowLoris Dos Attack with detection evasion for modern web servers (Express, Node.js, etc).
+StealthLoris is a more advanced modern [SlowLoris](https://www.cloudflare.com/learning/ddos/ddos-attack-tools/slowloris/) Dos Attack with detection evasion for modern web servers (Express, Node.js, etc).
 
 ### Usage
 ```bash
